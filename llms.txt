@@ -1,0 +1,8 @@
+## Pages
+- [Complete Your Profile - LeafyGrams](/completeprofile): Complete your profile to get started with LeafyGrams.
+- [LeafyGrams - Fresh Microgreens, Tailored to Your Health Goals](/home): Weekly microgreen packs for hair fall, weight loss, immunity, and detox. Fresh, chemical-free microgreens delivered to your doorstep. Try your trial pack today!
+- [Login / Sign Up - LeafyGrams](/login): Login or create an account with LeafyGrams to manage your microgreens subscription.
+- [My Dashboard - LeafyGrams](/userdashboard): Manage your LeafyGrams subscription and view your wellness plan.
+- [Privacy Policy - LeafyGrams](/privacypolicy): Read the Privacy Policy for LeafyGrams. Learn how we collect, use, and protect your personal information.
+- [Refund Policy - LeafyGrams](/refundpolicy): Read the Refund Policy for LeafyGrams. Learn about our policies on returns, refunds, and exchanges for your subscription.
+- [Terms of Service - LeafyGrams](/termsofservice): Read the Terms of Service for LeafyGrams. Understand the rules and guidelines for using our website and services.
